@@ -1,0 +1,7 @@
+stable-baselines3[extra] >= 2.4.0
+gymnasium[box2d] >= 1.0.0
+opencv-python
+moviepy
+imageio
+imageio-ffmpeg
+sb3-contrib>=2.4.0

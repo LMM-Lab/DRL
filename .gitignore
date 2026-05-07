@@ -1,0 +1,26 @@
+# ログ系
+logs/
+*.log
+# ロックファイル
+*.lock
+# 一時ファイル
+tmp/
+*.tmp
+# OS固有のファイル
+.DS_Store # macOS
+Thumbs.db # Windows
+# バックアップファイル
+*~ # Emacs
+*.swp # Vim
+# IDE固有のファイル
+.vscode/ # Visual Studio Code
+.idea/ # IntelliJ系IDE
+*.iml # IntelliJ系IDE
+# テスト・出力結果など
+tests/
+coverage/
+dist/
+outputs/
+
+.ipynb_checkpoints/
+__pycache__
