@@ -1,0 +1,7 @@
+{
+  "env": "tictactoe",
+  "type": "random",
+  "author": "arena",
+  "name": "random_tictactoe",
+  "description": "ベースラインのランダムプレイヤー(常に合法手から一様ランダム)。"
+}

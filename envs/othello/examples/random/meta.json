@@ -1,0 +1,7 @@
+{
+  "env": "othello",
+  "type": "random",
+  "author": "arena",
+  "name": "random_othello",
+  "description": "ベースラインのランダムプレイヤー。"
+}

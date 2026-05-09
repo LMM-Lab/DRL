@@ -1,0 +1,7 @@
+{
+  "env": "connect4",
+  "type": "random",
+  "author": "arena",
+  "name": "random_connect4",
+  "description": "ベースラインのランダムプレイヤー。"
+}

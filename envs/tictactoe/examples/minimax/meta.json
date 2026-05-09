@@ -1,0 +1,8 @@
+{
+  "env": "tictactoe",
+  "type": "csv",
+  "file": "model.csv",
+  "author": "arena",
+  "name": "minimax_tictactoe",
+  "description": "三目並べを完全解析した最適 Q-table。引き分け以上を保証(先手・後手とも負けない)。`python training/tictactoe_minimax.py` で生成される。"
+}
