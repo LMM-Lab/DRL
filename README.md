@@ -36,7 +36,10 @@ rl-arena/
 
 ```bash
 # 1. 依存をインストール(ランタイムだけなら numpy + onnxruntime で十分)
-pip install -e .
+python -m venv vnev
+source vnev/bin/activate
+#仮想環境に入れたのを確認してからライブラリをインストール
+pip install -r requirements.txt
 
 # 2. 環境一覧を確認
 python -m arena.cli list-envs
