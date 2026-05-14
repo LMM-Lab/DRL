@@ -1,21 +1,14 @@
 # --- arena 実行に必須 ---
 numpy>=1.24
 onnxruntime>=1.17
+onnx
+onnxscript
 
 # --- 学習用(任意): 提出物の作成サンプルで使用 ---
 torch>=2.1
 stable-baselines3[extra]>=2.4.0
 gymnasium>=1.0.0
 sb3-contrib>=2.4.0
-
-# --- メディア(任意) ---
-opencv-python
-moviepy
-imageio
-imageio-ffmpeg
-
-# --- PMMLサポート(任意) ---
-# pypmml>=0.9.17
 
 # --- 開発用 ---
 pytest>=8.0

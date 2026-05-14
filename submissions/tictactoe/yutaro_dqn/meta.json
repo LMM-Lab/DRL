@@ -1,0 +1,9 @@
+{
+  "env": "tictactoe",
+  "type": "onnx",
+  "file": "model.onnx",
+  "author": "yutaro",
+  "name": "yutaro_dqn",
+  "description": "DQN, 20 steps, gamma=0.95, lr=0.001",
+  "input_name": "obs"
+}

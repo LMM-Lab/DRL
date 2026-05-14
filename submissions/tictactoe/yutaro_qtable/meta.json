@@ -1,0 +1,8 @@
+{
+  "env": "tictactoe",
+  "type": "csv",
+  "file": "model.csv",
+  "author": "yutaro",
+  "name": "yutaro_qtable",
+  "description": "Q-learning self-play, 200 episodes, alpha=0.1, gamma=0.95, eps 1.0 -> 0.05"
+}
